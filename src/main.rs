@@ -1,6 +1,6 @@
-mod matrix;
+mod adjacency_matrix;
 
 fn main() {
-    matrix::test();
+    adjacency_matrix::test();
     println!("Hello, world!");
 }
